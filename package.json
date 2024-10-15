@@ -8,9 +8,11 @@
     "start": "next start",
     "lint": "next lint"
   },
-  "dependencies": {
-    "react": "^18",
-    "react-dom": "^18",
-    "next": "14.2.15"
+ "dependencies": {
+    "next": "latest",
+    "react": "18.x",
+    "react-dom": "18.x",
+    "formik": "^2.2.9",
+    "react-icons": "^4.3.1"
   }
 }
